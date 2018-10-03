@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">HolaMundo</string>
+    <string name="app_name">Hola Salva</string>
+    <string name="saludo">Hola esto es una prueba</string>
+    <string name="textopulsado">¡Me han pulsado!</string>
 </resources>
