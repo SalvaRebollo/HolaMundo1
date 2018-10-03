@@ -1,6 +1,7 @@
 package com.rb.salva.holamundo;
 
 import android.support.v7.app.AppCompatActivity;
+
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -8,7 +9,6 @@ import android.widget.TextView;
 
 
 public class MainActivity extends AppCompatActivity {
-
     private TextView msg ;
     private Button btn ;
     private int numero = 0;
